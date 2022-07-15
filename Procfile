@@ -1,0 +1,1 @@
+worker: python3 TelegramBot_new.py
